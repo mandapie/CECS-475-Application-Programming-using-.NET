@@ -1,0 +1,10 @@
+c:\users\amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\bin\Debug\Membership Maintenance Form.exe.config
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership Maintenance Form.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership_Maintenance_Form.AddMForm.resources
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership_Maintenance_Form.MMForm.resources
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership_Maintenance_Form.Properties.Resources.resources
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership Maintenance Form.csproj.GenerateResource.Cache
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\bin\Debug\Membership Maintenance Form.exe
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\bin\Debug\Membership Maintenance Form.pdb
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership Maintenance Form.exe
+C:\Users\Amanda\documents\visual studio 2015\Projects\Fitness Membership Maintenance\Membership Maintenance Form\obj\Debug\Membership Maintenance Form.pdb

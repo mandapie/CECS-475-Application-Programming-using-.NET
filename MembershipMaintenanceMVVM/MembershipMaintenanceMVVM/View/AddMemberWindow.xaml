@@ -1,0 +1,25 @@
+﻿<Window x:Class="MembershipMaintenanceMVVM.View.AddMemberWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MembershipMaintenanceMVVM.View"
+        mc:Ignorable="d"
+        Title="AddMemberWindow" Height="219.939" Width="311.043"
+        DataContext="{Binding AddMemberViewModel, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="74*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="fNameText" Content="First Name:" HorizontalAlignment="Left" Margin="23,31,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="lNameText" Content="Last Name:" HorizontalAlignment="Left" Margin="24,62,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="emailText" Content="Email:" HorizontalAlignment="Left" Margin="24,93,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="fNameBox" HorizontalAlignment="Left" Height="23" Margin="28,31,0,0" TextWrapping="Wrap" Text="{Binding FNameText}" VerticalAlignment="Top" Width="147" Grid.Column="1"/>
+        <TextBox x:Name="lNameBox" HorizontalAlignment="Left" Height="23" Margin="28,65,0,0" TextWrapping="Wrap" Text="{Binding LNameText}" VerticalAlignment="Top" Width="147" Grid.Column="1"/>
+        <TextBox x:Name="emailBox" HorizontalAlignment="Left" Height="23" Margin="28,96,0,0" TextWrapping="Wrap" Text="{Binding emailText}" VerticalAlignment="Top" Width="147" Grid.Column="1"/>
+        <Button x:Name="saveButtom" Content="Save" HorizontalAlignment="Left" Margin="0,147,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Command="{Binding SaveCommand}"/>
+        <Button x:Name="cancelButton" Content="Cancel" Grid.Column="1" HorizontalAlignment="Left" Margin="100,147,0,0" VerticalAlignment="Top" Width="75" Command="{Binding CancelCommand, Mode=OneWay}" CommandParameter="{Binding ElementName=AddMemberWindow}"/>
+
+    </Grid>
+</Window>

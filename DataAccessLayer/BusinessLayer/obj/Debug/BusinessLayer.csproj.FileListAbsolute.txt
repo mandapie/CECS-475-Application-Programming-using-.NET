@@ -1,0 +1,15 @@
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\SchoolDB.mdf
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\BusinessLayer\bin\Debug\SchoolDB_log.ldf

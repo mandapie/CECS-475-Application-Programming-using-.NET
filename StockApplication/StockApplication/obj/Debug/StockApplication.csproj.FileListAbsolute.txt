@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\bin\Debug\StockApplication.exe.config
+C:\Users\Amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\obj\Debug\StockApplication.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\bin\Debug\StockApplication.exe
+C:\Users\Amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\bin\Debug\StockApplication.pdb
+C:\Users\Amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\obj\Debug\StockApplication.exe
+C:\Users\Amanda\documents\visual studio 2015\Projects\StockApplication\StockApplication\obj\Debug\StockApplication.pdb

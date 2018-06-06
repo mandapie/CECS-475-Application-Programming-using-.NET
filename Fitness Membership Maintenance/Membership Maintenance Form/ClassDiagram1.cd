@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Membership_Maintenance_Form.AddMForm">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAQAAAKAEAAAAAACAACgCAAAAgAACCAAEFABAEAA=</HashCode>
+      <FileName>AddMForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.Member" BaseTypeListCollapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBAAAAggAABgAAAAAEAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Membership_Maintenance_Form.MembershipData">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAAAAAAAAAAAAACAAABAAAAAAAAAA=</HashCode>
+      <FileName>MembershipData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.MembershipList">
+    <Position X="5" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Membership_Maintenance_Form.MembershipList.ChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MembershipList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAAATAEABAQAAAAACAQAAAQAAAAQAAA=</HashCode>
+      <FileName>MembershipList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.MMForm">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAIAACAgBAAAAACACAAGAAEAACQCAAAABIAgAAA=</HashCode>
+      <FileName>MMForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.Program">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.Validator">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.Properties.Resources">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Membership_Maintenance_Form.Properties.Settings">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,172 @@
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\ApplicationInsights.config
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\csc.exe
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\System.Collections.Immutable.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\vbc.exe
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\VBCSCompiler.exe
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\roslyn\VBCSCompiler.exe.config
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\MVCMovie.dll.config
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\MVCMovie.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\MVCMovie.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Antlr3.Runtime.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\EntityFramework.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.Web.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.WindowsServer.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.ApplicationInsights.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Google.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Newtonsoft.Json.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Owin.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Helpers.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Mvc.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Optimization.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Razor.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\WebGrease.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.Web.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AI.WindowsServer.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.ApplicationInsights.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Helpers.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Mvc.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Optimization.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.Razor.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Antlr3.Runtime.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Newtonsoft.Json.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\EntityFramework.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Google.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Rating.resources
+c:\users\amanda\documents\visual studio 2015\Projects\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.DataAnnotations.resources
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\ApplicationInsights.config
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\csc.exe
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\vbc.exe
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\MVCMovie.dll.config
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\MVCMovie.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\MVCMovie.pdb
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Antlr3.Runtime.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\EntityFramework.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.Web.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Newtonsoft.Json.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Owin.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Helpers.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Mvc.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Optimization.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Razor.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\WebGrease.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.Web.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Helpers.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Mvc.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Optimization.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.Razor.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Antlr3.Runtime.pdb
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Newtonsoft.Json.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\EntityFramework.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Initial.resources
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.Rating.resources
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.Migrations.DataAnnotations.resources
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.csproj.GenerateResource.Cache
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.dll
+C:\Users\Amanda\Google Drive\CSULB\Spring 2017\CECS 475\Lab Assignments\MVCMovie\MVCMovie\obj\Debug\MVCMovie.pdb

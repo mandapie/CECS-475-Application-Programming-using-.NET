@@ -1,0 +1,28 @@
+﻿<Window x:Class="CustomerMaintenanceMVVM.View.AddUpdateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CustomerMaintenanceMVVM.View"
+        mc:Ignorable="d"
+        Title="{Binding Path=TitleText}" Height="213.607" Width="444.304"
+        DataContext="{Binding AddUpdate, Source={StaticResource Locator}}">
+    <Grid>
+        <Label x:Name="NameLabel" Content="Name:" HorizontalAlignment="Left" Margin="29,26,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="AddressLabel" Content="Address:" HorizontalAlignment="Left" Margin="29,53,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="CityLabel" Content="City:" HorizontalAlignment="Left" Margin="29,79,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="StateLabel" Content="State:" HorizontalAlignment="Left" Margin="29,105,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ZipLabel" Content="Zip code:" HorizontalAlignment="Left" Margin="211,105,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.548,1.408"/>
+        <TextBox x:Name="NameBox" Text="{Binding NameText}" HorizontalAlignment="Left" Height="23" Margin="89,26,-9,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305"/>
+        <TextBox x:Name="AddressBox" Text="{Binding AddrText}" HorizontalAlignment="Left" Height="23" Margin="89,54,-9,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305"/>
+        <TextBox x:Name="CityBox" Text="{Binding CityText}" HorizontalAlignment="Left" Height="23" Margin="89,82,-9,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="305"/>
+        <TextBox x:Name="ZipBox" Text="{Binding ZipText}" HorizontalAlignment="Left" Height="23" Margin="274,110,-9,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="SaveButton" Content="Save" Command="{Binding Save}" HorizontalAlignment="Left" Margin="29,143,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="CancelButton" Content="Cancel" Command="{Binding Cancel}" HorizontalAlignment="Left" Margin="319,143,0,0" VerticalAlignment="Top" Width="75"/>
+        <ComboBox x:Name="StateComboBox" HorizontalAlignment="Left" Margin="89,111,0,0" VerticalAlignment="Top" Width="120"
+                  ItemsSource="{Binding StateCombo}"
+                  DisplayMemberPath="StateName"
+                  SelectedValuePath="StateCode"
+                  SelectedValue="{Binding selectedState, Mode=TwoWay}"/>
+    </Grid>
+</Window>

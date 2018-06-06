@@ -1,0 +1,19 @@
+c:\users\amanda\documents\visual studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+c:\users\amanda\documents\visual studio 2015\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\SchoolDB.mdf
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\SchoolDB.mdf
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\Repository Pattern\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Amanda\Documents\Visual Studio 2015\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\SchoolDB_log.ldf
